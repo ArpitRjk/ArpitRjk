@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Arpit Rajak 👋
 ### Data Analyst · Aspiring ML Engineer · MCA in Data Science & Visualization
 
 > *"I don't just analyze data — I build systems that learn from it."*
