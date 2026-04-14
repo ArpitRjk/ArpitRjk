@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Arpit Rajak 👋
 ### Data Analyst · MCA in Data Science & Visualization
 
 > *"Data is the most honest storyteller — I just help it speak clearly."*
