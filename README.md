@@ -1,18 +1,61 @@
-# 💫 About Me:
-I am a motivated Data Analyst with a strong foundation in Python, SQL, Excel, and Power BI, supported by training in Data Science and AI. My expertise includes data cleaning, exploratory data analysis (EDA), SQL querying, dashboards, and reporting.<br><br>I hold a Master of Computer Applications (MCA) in Data Science & Visualization and have completed internships where I applied analytics to real-world business problems. At Cognifyz Technologies, I worked on customer behavior datasets using Python and SQL for analysis and built visualizations to support decision-making. At the International Institute of SDGs Public Research, I contributed to a comparative study of the semiconductor industry across India, China, and Dubai, preparing structured reports and insights,<br><br>Beyond internships, I have built several projects, including:<br><br>📊 Loan Default Risk Analysis (Python) – identifying key factors influencing loan defaults.<br><br>🕵️ Crime Data Analysis (Python + SQL) – cleaning and querying crime datasets to find trends by region and type.<br><br>👥 HR Analytics Dashboard (Power BI) – analyzing workforce demographics, attrition, and performance with interactive KPIs.<br><br>I am passionate about turning raw data into actionable insights and continuously developing my skills. Currently, I am seeking entry-level Data Analyst opportunities where I can contribute to impactful projects, learn from industry mentors, and grow into advanced analytics and data science roles.<br><br>Skills: SQL | Python | Power BI | Excel | EDA | Data Visualization | Reporting | Machine Learning (basics)
+# Hi there, I'm [Your Name] 👋
+### Data Analyst · MCA in Data Science & Visualization
 
+> *"Data is the most honest storyteller — I just help it speak clearly."*
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arpit-rajak-439a641b4/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arpitrjk06@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ArpitRjk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ArpitRjk&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitRjk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm a fresher Data Analyst with hands-on internship experience and a growing portfolio of real-world projects. My work sits at the crossroads of **analytics**, **visualization**, and **machine learning** — I love the full journey from messy raw data to a clean, decision-ready insight.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ArpitRjk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧰 Tech Stack
+
+**Languages & Querying**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+
+**Visualization & BI**
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
+**Data & ML**
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn` `EDA` `Data Cleaning` `Feature Engineering`
+
+---
+
+## 🚀 Projects
+
+### 📊 Loan Default Risk Analysis
+> Python · Pandas · Seaborn · EDA
+Analyzed customer financial data to identify top predictors of loan default. Applied EDA and visualizations to uncover patterns across income, loan amount, and credit history.
+
+### 🕵️ Crime Data Analysis
+> Python · SQL · Matplotlib
+Cleaned and queried a large crime dataset to surface trends by region, time, and crime type. Built summary reports for pattern detection.
+
+### 👥 HR Analytics Dashboard
+> Power BI · DAX · KPI Design
+Interactive dashboard analyzing 1,000+ employee records — covering attrition rates, department demographics, performance bands, and headcount trends.
+
+---
+
+## 💼 Internship Experience
+
+**Cognifyz Technologies**
+Applied Python and SQL to analyze customer behavior datasets. Built data visualizations and reports to support business decision-making.
+
+**International Institute of SDGs Public Research**
+Contributed to a cross-country comparative study of the semiconductor industry across India, China, and Dubai — prepared structured analytical reports and insights.
+
+---
+
+## 📚 Currently Learning
+- Advanced SQL (Window functions, CTEs)
+- Machine Learning pipelines with Scikit-learn
+- Dashboard storytelling & design best practices
+
+---
+
+## 📫 Let's connect!
+I'm actively looking for **entry-level Data Analyst** roles.
+Feel free to explore my repos, raise issues, or just say hi. Collaboration welcome! 🤝
