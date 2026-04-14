@@ -1,61 +1,77 @@
-# Hi there, I'm Arpit Rajak 👋
-### Data Analyst · MCA in Data Science & Visualization
+# Hi, I'm [Your Name] 👋
+### Data Analyst · Aspiring ML Engineer · MCA in Data Science & Visualization
 
-> *"Data is the most honest storyteller — I just help it speak clearly."*
+> *"I don't just analyze data — I build systems that learn from it."*
 
-I'm a fresher Data Analyst with hands-on internship experience and a growing portfolio of real-world projects. My work sits at the crossroads of **analytics**, **visualization**, and **machine learning** — I love the full journey from messy raw data to a clean, decision-ready insight.
+I sit at the intersection of **Data Analytics** and **Machine Learning Engineering**. On one side, I turn raw, messy data into clean dashboards and business insights. On the other, I build models that find patterns humans can't see. Both sides excite me equally — and that's exactly what makes me a hybrid.
+
+🎓 MCA in Data Science & Visualization
+💼 Interned at Cognifyz Technologies & IISDGS Public Research
+📍 Open to entry-level DA · MLE · Data Science roles
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages & Querying**
+**Analytics & Reporting**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-
-**Visualization & BI**
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
-**Data & ML**
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn` `EDA` `Data Cleaning` `Feature Engineering`
+**Machine Learning & AI**
+`Scikit-learn` `NLP` `Deep Learning (basics)` `Feature Engineering` `Model Evaluation` `EDA`
+
+**Libraries**
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `NLTK / spaCy`
 
 ---
 
 ## 🚀 Projects
 
-### 📊 Loan Default Risk Analysis
-> Python · Pandas · Seaborn · EDA
-Analyzed customer financial data to identify top predictors of loan default. Applied EDA and visualizations to uncover patterns across income, loan amount, and credit history.
+### 📊 Loan Default Risk Analysis *(Analytics + ML)*
+> Python · Pandas · Scikit-learn · EDA
+End-to-end project — from raw financial data to a predictive model identifying key drivers of loan default. Combined EDA with classification to deliver both insight and prediction.
 
-### 🕵️ Crime Data Analysis
+### 🕵️ Crime Data Analysis *(Analytics)*
 > Python · SQL · Matplotlib
-Cleaned and queried a large crime dataset to surface trends by region, time, and crime type. Built summary reports for pattern detection.
+Cleaned and queried large crime datasets to surface regional trends, peak periods, and crime type distributions. Structured for reporting and decision support.
 
-### 👥 HR Analytics Dashboard
+### 👥 HR Analytics Dashboard *(BI & Reporting)*
 > Power BI · DAX · KPI Design
-Interactive dashboard analyzing 1,000+ employee records — covering attrition rates, department demographics, performance bands, and headcount trends.
+Interactive dashboard on 1,000+ employee records — attrition analysis, workforce demographics, performance bands, and department-level KPIs.
 
 ---
 
-## 💼 Internship Experience
+## 💼 Experience
 
-**Cognifyz Technologies**
-Applied Python and SQL to analyze customer behavior datasets. Built data visualizations and reports to support business decision-making.
+**Cognifyz Technologies** *(Internship)*
+Analyzed customer behavior datasets using Python and SQL. Built visualizations that directly supported business decisions.
 
-**International Institute of SDGs Public Research**
-Contributed to a cross-country comparative study of the semiconductor industry across India, China, and Dubai — prepared structured analytical reports and insights.
+**International Institute of SDGs Public Research** *(Internship)*
+Comparative analytical study of the semiconductor industry across India, China, and Dubai — structured reports and cross-country insights.
 
 ---
 
-## 📚 Currently Learning
-- Advanced SQL (Window functions, CTEs)
-- Machine Learning pipelines with Scikit-learn
-- Dashboard storytelling & design best practices
+## 📚 Currently Leveling Up
+- 🤖 ML pipelines: cross-validation, hyperparameter tuning, deployment basics
+- 🧠 Deep Learning fundamentals with NLP applications
+- 📊 Advanced SQL — window functions, CTEs, query optimization
+- 🔁 End-to-end project flow: data → model → insights → story
+
+---
+
+## 🎯 What I'm Looking For
+I'm actively seeking **entry-level roles** in:
+- 📊 Data Analyst — insights, dashboards, reporting
+- 🤖 ML Engineer / AI Analyst — modeling, pipelines, AI-powered products
+- 🔬 Data Scientist — the role that bridges both worlds
 
 ---
 
 ## 📫 Let's connect!
-I'm actively looking for **entry-level Data Analyst** roles.
-Feel free to explore my repos, raise issues, or just say hi. Collaboration welcome! 🤝
+Browse my repos below, open an issue, or just say hi.
+I'm always up for collaborating on data or ML projects. 🤝
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-PROFILE)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=flat&logo=gmail)](mailto:your@email.com)
